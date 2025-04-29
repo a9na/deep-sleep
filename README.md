@@ -1,6 +1,9 @@
 # Deep Sleep
 The first app to **fully gamify sleep** 🌙
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deepsleepapp?igsh=MXBoYnBkaXRzc2NqNw==)
+
+
 **Deep Sleep** tracks your real sleep cycles — deep, REM, light — and turns them into an interactive game.  
 Complete nightly **"sleep quests"**, level up your **Sleep Score**, earn **badges** for hitting deep sleep goals, and unlock **real-world rewards** for improving your sleep.  
 Team up with friends, compete on **leaderboards**, and finally make going to bed the ultimate **flex**.
