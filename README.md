@@ -5,7 +5,7 @@ The first app to **turn sleep into a quest for geeks** 🌙
 
 **Deep Sleep** is your nightly RPG for better rest. Track your real sleep cycles – deep, REM, light – and dive into a world where sleep is your ultimate game.  
 Embark on nightly **“sleep quests”**, level up your **Sleep Score**, collect **badges** for conquering deep sleep milestones, and unlock both virtual and real-world rewards for mastering the art of rest.  
-Form guilds with friends, climb the **leaderboards**, and make going to bed the most epic flex in your geek circle.
+Form guilds with friends, climb the **leaderboards**, and make going to bed not a chore, but a new game.
 
 ---
 
@@ -28,5 +28,3 @@ Form guilds with friends, climb the **leaderboards**, and make going to bed the 
 - **Leaderboard**: Weekly rankings showing who sleeps the best among friends, local community, or globally.
 
 ---
-
-🎮 Deep Sleep is a gamified sleep app for geeks that transforms healthy sleep habits into nightly quests, XP, and team challenges-motivating users to improve their rest while competing and connecting with like-minded individuals.
